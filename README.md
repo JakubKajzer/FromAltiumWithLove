@@ -1,2 +1,3 @@
 # LED_Hearth
- A hearth shaped LEDs, showing color continously.
+ A hearth shaped PCB with LEDs, showing few patterns of colors.
+I made it for my girlfriend.
