@@ -1,8 +1,8 @@
 # From Altium With Love
 ## Description
-[[/Photos/red.jpg]]
-[[/Photos/white.jpg]]
-[[/Photos/off.jpg]]
+|![](/Photos/red.jpg) |![](/Photos/white.jpg)|![](/Photos/off.jpg)|
+| ------------- | ------------- | ------------- |
+
 A hearth shaped PCB with LEDs, showing a few, predefined patterns of colors. I made it for my girlfriend.
 When its powered up, LEDs will made some fancy patterns of colors.
 ## Powering
